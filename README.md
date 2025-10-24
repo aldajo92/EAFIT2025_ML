@@ -19,6 +19,11 @@ Image classification using the fastai library with transfer learning from Places
 
 **Notebook:** `Competition03/AIComp0120252_inte.ipynb`
 
+### Competition 04: IMDB Sentiment Analysis
+Binary sentiment classification on IMDB movie reviews (50k reviews) using DistilBERT transformer model with full fine-tuning and classifier-only fine-tuning approaches.
+
+**Notebook:** `Competition04/notebook89f3e9612e.ipynb`
+
 ## Setup
 
 Each competition notebook contains its own setup instructions and data download commands.
